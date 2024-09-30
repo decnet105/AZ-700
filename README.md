@@ -13,10 +13,6 @@ https://aka.ms/esilabs
 Interactive Lab Videos
 https://aka.ms/az700labsim
 
-Training Key:
-
-856D8F4F6ADC4307
-
 Microsoft Learn
 https://aka.ms/learn
 
